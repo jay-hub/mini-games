@@ -1,0 +1,3 @@
+openai
+py3-tts
+python-dotenv
